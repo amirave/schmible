@@ -1,5 +1,5 @@
 # schmible
- An evolution-themed casual game made for a week long game jam
+ An evolution-themed casual game made for a 3 day game jam
 
 Play it now on https://amirave.itch.io/schmible
 
